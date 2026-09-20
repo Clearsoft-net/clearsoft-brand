@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 110" width="180" height="110">
+  <g>
+    <circle cx="85" cy="32" r="16" stroke="#334155" stroke-width="2.6" fill="none"/>
+    <circle cx="95" cy="32" r="16" stroke="#0D9488" stroke-width="2.6" fill="none"/>
+    <ellipse cx="90" cy="32" rx="5.5" ry="11.5" fill="#0F172A" opacity="0.88"/>
+    <circle cx="90" cy="32" r="3" fill="#38BDF8"/>
+  </g>
+  <text x="90" y="74" text-anchor="middle" font-family="'Sora', sans-serif" font-size="19" letter-spacing="0.2">
+    <tspan font-weight="800" fill="#0F172A">CLEAR</tspan><tspan font-weight="300" fill="#0D9488">SOFT</tspan>
+  </text>
+  <text x="90" y="92" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="600" letter-spacing="1.8" fill="#0D9488">clearsoft.net</text>
+</svg>
