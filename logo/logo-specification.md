@@ -55,17 +55,17 @@ Two interlocking optical lenses — the precise reading and the synergy across t
 
 ## 3. Logo Proportions
 
-### Horizontal (01 / 02) — viewBox 250×56
+### Horizontal (01 / 02) — viewBox 187×56
 
 ```
-←———————————————— 250px ————————————————→
-┌───────────────────────────────────────────┐
-│                                           │
-│  ◉◉   CLEARSOFT                           │  ← 20px (CLEAR 800 / SOFT 300)
-│  lenses ↑                                 │
-│  r=15    clearsoft.net                    │  ← 9px, JetBrains Mono
-└───────────────────────────────────────────┘
-                    56px
+←—————— 187px ——————→
+┌─────────────────────┐
+│                     │
+│  ◉◉  CLEARSOFT      │  ← 20px (CLEAR 800 / SOFT 300)
+│  lenses ↑           │
+│  r=15 clearsoft.net │  ← 9px, JetBrains Mono
+└─────────────────────┘
+          56px
 ```
 
 | Element | Size | Reference |
