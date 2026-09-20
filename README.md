@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./logo/01-dark-horizontal.svg">
     <source media="(prefers-color-scheme: light)" srcset="./logo/02-light-horizontal.svg">
     <img alt="Clearsoft Logo" src="./logo/01-dark-horizontal.svg" height="120">
   </picture>
-</p>
+</div>
 
 <h1 align="center">Clearsoft Brand Assets</h1>
 
